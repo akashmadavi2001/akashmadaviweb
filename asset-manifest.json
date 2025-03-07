@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akashmadaviweb/static/css/main.069ce145.css",
-    "main.js": "/akashmadaviweb/static/js/main.631331ac.js",
+    "main.js": "/akashmadaviweb/static/js/main.a163a109.js",
     "static/js/453.dc5c8313.chunk.js": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js",
     "static/media/Akash.png": "/akashmadaviweb/static/media/Akash.3d15fadfe725ebdab98f.png",
     "static/media/BG.jpg": "/akashmadaviweb/static/media/BG.b8b713bc655138572b34.jpg",
@@ -35,11 +35,11 @@
     "index.html": "/akashmadaviweb/index.html",
     "static/media/search-icons.svg": "/akashmadaviweb/static/media/search-icons.75eba69e52221f0749961b8049f55824.svg",
     "main.069ce145.css.map": "/akashmadaviweb/static/css/main.069ce145.css.map",
-    "main.631331ac.js.map": "/akashmadaviweb/static/js/main.631331ac.js.map",
+    "main.a163a109.js.map": "/akashmadaviweb/static/js/main.a163a109.js.map",
     "453.dc5c8313.chunk.js.map": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.069ce145.css",
-    "static/js/main.631331ac.js"
+    "static/js/main.a163a109.js"
   ]
 }
