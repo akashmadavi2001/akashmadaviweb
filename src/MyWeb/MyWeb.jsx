@@ -64,4 +64,4 @@ export default function MyWeb() {
             </main>
         </div>
     )
-}
+};
