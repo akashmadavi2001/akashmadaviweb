@@ -3,7 +3,6 @@ import html_ic from './html-icon.png'
 import css_ic from './css-icon.png'
 import js_ic from './javascript-icon.png'
 import react_ic from './react-icon.png'
-// import CountUp from 'react-countup'
 
 export default function About() {
 
